@@ -17,14 +17,14 @@ const About = () => {
        and we are committed to providing the highest level of service to our clients.
         We believe that buying or selling a property should be an exciting and rewarding experience,
          and we are dedicated to making that a reality for each and every one of our clients.</p>  
-         <div className='flex justify-center items-center gap-6 sm:gap-12 h-[380px] w-full max-w-[800px] mx-auto'>
+         <div className='flex justify-between items-center gap-6 sm:gap-12 h-[380px] w-full max-w-[800px] mx-auto'>
   <div className='flex flex-col items-center'>
     <img
       src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       alt=""
       className='rounded-lg mb-2 w-42 h-40 object-cover'
     />
-    <p className='text-slate-700 text-semibold'>Ceo & founder- <span className='text-bold'>Ross Geller</span></p>
+    <p className='text-slate-700 text-semibold'>Ceo & founder- <span className='text-bold'><br/>Ross Geller</span></p>
   </div>
 
   <div className='flex flex-col items-center'>
@@ -33,7 +33,7 @@ const About = () => {
       alt=""
       className='rounded-lg mb-2 w-32 h-40 object-cover'
     />
-    <p className='text-slate-700 text-semibold'>Co-Founder- <span className='text-bold'>Monica Geller</span></p>
+    <p className='text-slate-700 text-semibold'>Co-Founder- <span className='text-bold'><br/>Monica Geller</span></p>
   </div>
 
   <div className='flex flex-col items-center'>
@@ -42,7 +42,7 @@ const About = () => {
       alt=""
       className='rounded-lg mb-2 w-32 h-40 object-cover'
     />
-    <p className='text-slate-700 text-semibold'>Marketing Head- <span className='text-bold'>Matthew Perry</span></p>
+    <p className='text-slate-700 text-semibold'>Marketing Head- <span className='text-bold'><br/>Matthew Perry</span></p>
   </div>
 </div>
     
