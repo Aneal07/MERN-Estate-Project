@@ -8,10 +8,16 @@ Welcome to the MERN Estate Project, a full-stack web application for managing re
 
 The MERN Estate Project is a modern web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It serves as a comprehensive solution for managing real estate listings, providing a user-friendly interface for both property owners and potential buyers.
 
+![Screenshot](./images/1.png)
+![Screenshot](./images/2.png)
+
 ### Key Features
 
 - **Dynamic Property Listings:** Easily add, update, and remove property listings with a dynamic and intuitive interface.
+![Screenshot](./images/3.png)
 - **User Authentication:** Secure user authentication system allowing property owners to manage their listings and potential buyers to save favorites.
+![Screenshot](./images/4.png)
+![Screenshot](./images/5.png)
 - **Responsive Design:** The application is designed to be responsive, ensuring a seamless experience across various devices.
 
 ### Technologies Used
