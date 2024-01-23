@@ -55,6 +55,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository:
 
 bash
+
 git clone https://github.com/Aneal07/MERN-Estate-Project.git
 
 cd MERN-Estate-Project
@@ -66,9 +67,11 @@ Start the server:
 npm run dev
 
 Running the Client:
+
 If you want to run the client as well, navigate to the client directory:
 
 bash
+
 cd client
 Install client dependencies:
 
