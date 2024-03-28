@@ -2,7 +2,11 @@
 
 
 
-Welcome to the MERN Estate Project, a full-stack web application for managing real estate data. This project uses the MERN (MongoDB, Express.js, React.js, Node.js) stack and leverages Insomnia for testing API endpoints.
+Welcome to the MERN Estate Project, a full-stack web application for managing real estate data. This project uses the MERN (MongoDB,
+ Express.js,
+ React.js,
+ Node.js) 
+stack and leverage Insomnia for testing API endpoints.
 
 ## About
 
