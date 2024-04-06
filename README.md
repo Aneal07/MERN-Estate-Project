@@ -6,7 +6,7 @@ Welcome to the MERN Estate Project, a full-stack web application for managing re
  Express.js,
  React.js,
  Node.js) 
-stack and leverage Insomnia for testing API endpoints.
+stack, tailwind css and leverage Insomnia for testing API endpoints.
 
 ## About
 
